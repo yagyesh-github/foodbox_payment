@@ -32,7 +32,7 @@
 					</li>
 					<li>About Us</li>
 				</ul>
-			</div>
+			</div><!-- demo -->
 		</div>
 	</div>
 	<!-- //page -->
