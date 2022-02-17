@@ -8,7 +8,7 @@
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>
-	<c:choose>
+	 <c:choose>
 	<c:when test="${not empty email}">
 		<jsp:include page="layouts/user-navigation.jsp"></jsp:include>
 		<jsp:include page="layouts/user-menu.jsp"></jsp:include>
