@@ -19,11 +19,7 @@
 		<jsp:include page="layouts/menu.jsp"></jsp:include>
 	</c:otherwise>
 </c:choose>
-	<!-- banner-2 -->
-	<div class="page-head_agile_info_w3l">
-
-	</div>
-	<!-- //banner-2 -->
+	
 	<!-- page -->
 	<div class="services-breadcrumb">
 		<div class="agile_inner_breadcrumb">
