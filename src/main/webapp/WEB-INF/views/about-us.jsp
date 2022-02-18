@@ -49,7 +49,7 @@
 			<div class="row">
 				<div class="col-lg-6 welcome-left">
 					<h3>About Store</h3>
-					<h4 class="my-sm-3 my-2">Food Box Store is a low-price online Grocery store, which has many vital ranging products consumed in our everyday Breakfast, Meals & Dinners. We have Fresh Vegetables, Staples, Beverages, Personal care products & many other products needed daily. All the products on our
+					<h4 class="my-sm-3 my-2">Food Box Store is a low-price online store, which has many vital ranging products consumed in our everyday Breakfast, Meals & Dinners. . All the products on our
 					 website are distinguished based on their categories, which gives you the hassle-free shopping experience ever with minimum time spent for your shopping.</h4>
 				</div>
 				
