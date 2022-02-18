@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>FoodBox General Store | Products</title>
+<title>FoodBox | Products</title>
 <jsp:include page="layouts/header.jsp"></jsp:include>
 <link href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" rel="stylesheet">
 <style type="text/css">
@@ -34,9 +34,7 @@ table {
 </head>
 <body>
 	<jsp:include page="layouts/admin_menu.jsp"></jsp:include>
-	<!-- banner-2 -->
-	<div class="page-head_agile_info_w3l"></div>
-	<!-- //banner-2 -->
+	
 	<!-- page -->
 	<div class="services-breadcrumb">
 		<div class="agile_inner_breadcrumb">
