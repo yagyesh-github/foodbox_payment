@@ -8,7 +8,7 @@
 <c:if test="${empty email}">
 	<c:redirect url="${pageContext.request.contextPath}/user/sign-in"/>  
 </c:if>
-	<title>FoodBox General Store | Checkout</title>
+	<title>FoodBox | Checkout</title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>
