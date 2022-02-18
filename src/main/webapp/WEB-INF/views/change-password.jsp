@@ -6,17 +6,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FoodBox General Store | Change Password </title>
+	<title>FoodBox | Change Password </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>
 		<jsp:include page="layouts/navigation-bar.jsp"></jsp:include>
 		<jsp:include page="layouts/menu.jsp"></jsp:include>
-	<!-- banner-2 -->
-	<div class="page-head_agile_info_w3l">
-
-	</div>
-	<!-- //banner-2 -->
+	
 	<!-- page -->
 	<div class="services-breadcrumb">
 		<div class="agile_inner_breadcrumb">

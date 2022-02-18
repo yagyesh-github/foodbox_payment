@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FoodBox General Store | Login </title>
+	<title>FoodBox | Login </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

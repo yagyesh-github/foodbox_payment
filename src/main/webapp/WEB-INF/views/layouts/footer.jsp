@@ -42,7 +42,7 @@
 	<!-- copyright -->
 	<div class="copy-right py-3">
 		<div class="container">
-			<p class="text-center text-white">© 2020 FoodBox General Store. All rights reserved.</p>
+			<p class="text-center text-white">Â© 2020 FoodBox. All rights reserved.</p>
 		</div>
 	</div>
 	<!-- //copyright -->

@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FoodBox General Store | Home </title>
+	<title>FoodBox | Home </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>
@@ -18,7 +18,7 @@
 		<jsp:include page="layouts/menu.jsp"></jsp:include>
 	</c:otherwise>
 </c:choose>
-	<jsp:include page="layouts/banner.jsp"></jsp:include>
+	
 	<!-- top Products -->
 	<div class="ads-grid py-sm-5 py-4">
 		<div class="container-fluid py-xl-4 py-lg-2">

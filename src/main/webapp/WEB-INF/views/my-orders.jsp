@@ -8,16 +8,14 @@
 <c:if test="${empty email}">
 	<c:redirect url="${pageContext.request.contextPath}/user/sign-in"/>  
 </c:if>
-	<title>FoodBox General Store | My Orders</title>
+	<title>FoodBox | My Orders</title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 	<link href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" rel="stylesheet">
 </head>
 <body>
 	<jsp:include page="layouts/user-navigation.jsp"></jsp:include>
 	<jsp:include page="layouts/user-menu.jsp"></jsp:include>
-	<!-- banner-2 -->
-	<div class="page-head_agile_info_w3l"></div>
-	<!-- //banner-2 -->
+	
 	<!-- page -->
 	<div class="services-breadcrumb">
 		<div class="agile_inner_breadcrumb">
