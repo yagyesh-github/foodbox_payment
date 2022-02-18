@@ -2,7 +2,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
 	<link rel='icon' href='/images/favicon.ico' type='image/x-icon'/>
-	<meta name="keywords" content="FoodBox General Store, FoodBox Store, General Store, xxxx Society, FoodBox General Store , Shop no.4, Grocery Shop" />
+	<meta name="keywords" content="FoodBox General Store, FoodBox , General Store, xxxx Society, FoodBox General Store , Shop no.4, Grocery Shop" />
 	<script>
 // 	console.log("clearing html storage.");
 	localStorage.clear();
