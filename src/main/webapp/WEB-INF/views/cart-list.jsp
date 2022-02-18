@@ -40,9 +40,7 @@
 	<jsp:include page="layouts/user-menu.jsp"></jsp:include>
 	<script src="https://checkout.razorpay.com/v1/checkout.js"/></script>
 	<script src="${pageContext.request.contextPath}/js/script.js"></script>
-	<!-- banner-2 -->
-	<div class="page-head_agile_info_w3l"></div>
-	<!-- //banner-2 -->
+	
 	<!-- page -->
 	<div class="services-breadcrumb">
 		<div class="agile_inner_breadcrumb">
