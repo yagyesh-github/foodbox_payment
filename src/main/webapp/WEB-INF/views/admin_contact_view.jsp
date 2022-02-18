@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>FoodBox General Store | Contacts</title>
+<title>FoodBox | Contacts</title>
 <jsp:include page="layouts/header.jsp"></jsp:include>
 <link href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" rel="stylesheet">
 <style type="text/css">
