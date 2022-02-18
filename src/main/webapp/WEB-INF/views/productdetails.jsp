@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FoodBox General Store | Product </title>
+	<title>FoodBox | Product </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 	<link rel="stylesheet" href="${pageContext.request.contextPath}/css/flexslider.css" type="text/css" media="screen" />
 </head>
