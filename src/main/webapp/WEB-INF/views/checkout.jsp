@@ -7,7 +7,7 @@
 <c:if test="${empty email}">
 	<c:redirect url="${pageContext.request.contextPath}/user/sign-in"/>  
 </c:if>
-	<title>FoodBox General Store | Checkout</title>
+	<title>FoodBox  | Checkout</title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 	<script type="text/javascript" src="${pageContext.request.contextPath}/script.js"/></script>
@@ -15,9 +15,7 @@
 <body>
 	<jsp:include page="layouts/user-navigation.jsp"></jsp:include>
 	<jsp:include page="layouts/user-menu.jsp"></jsp:include>
-	<!-- banner-2 -->
-	<div class="page-head_agile_info_w3l"></div>
-	<!-- //banner-2 -->
+	
 	<!-- page -->
 	<div class="services-breadcrumb">
 		<div class="agile_inner_breadcrumb">
