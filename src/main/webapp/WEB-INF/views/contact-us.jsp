@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FoodBox General Store | Contact </title>
+	<title>FoodBox  Store | Contact </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 	<style type="text/css">
 		
